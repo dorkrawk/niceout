@@ -1,4 +1,4 @@
-# niceout
+# Niceout
 
 Niceout is just a simple command line based weather tool written in [Crystal](https://crystal-lang.org/).
 
@@ -17,13 +17,9 @@ crystal build src/niceout.cr --release
 ./niceout
 ```
 
-## Development
-
-TODO: Write development instructions here
-
 ## Contributing
 
-1. Fork it ( https://github.com/DorkRawk/niceout/fork )
+1. Fork it ( https://github.com/dorkrawk/niceout/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
