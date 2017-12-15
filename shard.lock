@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  commander:
+    github: mrrooijen/commander
+    version: 0.3.3
+
+  dotenv:
+    github: gdotdesign/cr-dotenv
+    version: 0.1.0
+

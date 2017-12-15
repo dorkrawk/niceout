@@ -1,0 +1,20 @@
+name: niceout
+version: 0.1.0
+
+authors:
+  - Dave <dave.schwantes@gmail.com>
+
+dependencies:
+  commander:
+    github: mrrooijen/commander
+    version: ~> 0.3.3
+  dotenv:
+    github: gdotdesign/cr-dotenv
+
+targets:
+  niceout:
+    main: src/niceout.cr
+
+crystal: 0.23.1
+
+license: MIT
